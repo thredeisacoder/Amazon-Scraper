@@ -1,4 +1,4 @@
-# 🛒 Amazon Product Scraper - GUI Edition
+# 🛒 Amazon Scraper
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ## 🎯 Tổng quan
 
-Amazon Product Scraper là một ứng dụng GUI được phát triển bằng Python, cho phép thu thập thông tin sản phẩm từ Amazon một cách dễ dàng và hiệu quả. Với giao diện đồ họa thân thiện, bạn có thể scrape thông tin chi tiết của từng sản phẩm hoặc thu thập danh sách sản phẩm từ kết quả tìm kiếm.
+Amazon Scraper là một ứng dụng GUI được phát triển bằng Python, cho phép thu thập thông tin sản phẩm từ Amazon một cách dễ dàng và hiệu quả. Với giao diện đồ họa thân thiện, bạn có thể scrape thông tin chi tiết của từng sản phẩm hoặc thu thập danh sách sản phẩm từ kết quả tìm kiếm.
 
 ### 🌟 Điểm nổi bật
 - **All-in-One**: Toàn bộ chức năng được tích hợp trong một file duy nhất
